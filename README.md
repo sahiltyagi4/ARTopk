@@ -1,6 +1,6 @@
 # Flexible Communication for Optimal Distributed Learning over Unpredictable Networks
 
-**Code for AR-Top_k_ compression published in IEEE International Conference on Big Data (BigData), 2023, Sorrento, Italy.**
+**Code for AR-Topk compression published in IEEE International Conference on Big Data (BigData), 2023, Sorrento, Italy.**
 
 _Gradient compression alleviates expensive communication in distributed deep learning by sending fewer values and its corresponding indices, typically via Allgather (AG). 
 Training with high compression ratio (CR) achieves high accuracy like DenseSGD, but has lower parallel scaling due to high communication cost (i.e., parallel efficiency). 
