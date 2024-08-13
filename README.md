@@ -13,7 +13,7 @@ We develop a flexible communication strategy that switches between AG and AR bas
 **ACCESS LINKS**
 
 - [Link1](https://ieeexplore.ieee.org/document/10386724/)
-- [Link2](https://sahiltyagi.academicwebsite.com/publications/26225-flexible-communication-for-optimal-distributed-learning-over-unpredictable-networks)
+- [Link2](https://sahiltyagi4.github.io/files/adopt.pdf)
 
 **CITATION**
 - **_Bibtex_**: @article{Tyagi2023FlexibleCF,
